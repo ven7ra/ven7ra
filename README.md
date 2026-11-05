@@ -14,7 +14,7 @@ I enjoy creating music, exploring new technologies and experimenting with comput
 
 - 🖥️  Systems, infrastructure and day-to-day administration
 - ⚙️  Automation, scripting and practical tooling
-- 🎧  Music production and sound design
+- 🎧  Music producer and sound designer
 
 ## `> focus areas`
 
