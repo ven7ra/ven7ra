@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/ven7ra-banner.svg" alt="VEN7RA — Systems // Automation // Sound" width="100%">
+<img src="assets/ven7ra-banner.svg" alt="ven7ra — Systems // Sound" width="100%">
 
 ### `SYSTEM ADMINISTRATOR` &nbsp;·&nbsp; `MUSIC PRODUCER`
-
-**Build. Automate. Create.**
 
 [Website](https://muz.lc/ven7ra) · [GitHub](https://github.com/ven7ra)
 
@@ -46,8 +44,6 @@ I'm a system administrator and music producer interested in the space between te
 
 <div align="center">
 
-`END OF TRANSMISSION` &nbsp; **//** &nbsp; `VEN7RA`
-
-<sub>Dark mode. Clear systems. Creative output.</sub>
+`END` &nbsp; **|** &nbsp; `ven7ra`
 
 </div>
