@@ -1,5 +1,9 @@
 <div align="center">
-  
+
+<div align="center">
+  <img src="assets/photo.png" width="100%" />
+</div>
+
 ### `Music Producer` &nbsp;·&nbsp; `Tech Enthusiast`
 
 [Website](https://muz.lc/ven7ra) · [GitHub](https://github.com/ven7ra)
