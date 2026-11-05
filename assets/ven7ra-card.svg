@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="t">
+<title id="t">VEN7RA — About</title>
+<defs>
+  <linearGradient id="b" x2="1" y2="1"><stop stop-color="#070a10"/><stop offset="1" stop-color="#101e2d"/></linearGradient>
+  <linearGradient id="l"><stop stop-color="#0878d8"/><stop offset="1" stop-color="#4bc3ff"/></linearGradient>
+</defs>
+<rect width="900" height="280" rx="18" fill="url(#b)" stroke="#17466c" stroke-width="2"/>
+<path d="M0 235H250l35-35h130M900 52H740l-30 30h-90" fill="none" stroke="url(#l)" stroke-width="2" opacity=".8"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="82" fill="#f0f4fa" font-size="48" font-weight="800" letter-spacing="3">VEN7RA</text>
+<text x="50" y="119" fill="#43baff" font-size="15" letter-spacing="4">SYSTEMS // AUTOMATION // SOUND</text>
+<path d="M50 145H520" stroke="#168bff" stroke-width="2"/>
+<text x="50" y="184" fill="#d5dfeb" font-size="20">System administrator · Music producer</text>
+<text x="50" y="218" fill="#899bad" font-size="16">Build. Automate. Create.</text>
+<text x="850" y="245" fill="#168bff" font-size="12" letter-spacing="3" text-anchor="end">VEN7RA / PROFILE</text>
+</g></svg>
