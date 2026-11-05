@@ -25,7 +25,6 @@ I'm a system administrator and music producer interested in the space between te
 
 - 🖥️  Systems, infrastructure and day-to-day administration
 - ⚙️  Automation, scripting and practical tooling
-- 🌐  Networking and reliable services
 - 🎧  Music production and sound design
 
 ## `> focus_areas`
