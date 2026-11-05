@@ -14,11 +14,11 @@
 
 ## `> who am i`
 
-I enjoy creating music, exploring new technologies and experimenting with computers and software.
+I enjoy creating music, exploring new technologies, and experimenting with computers and software.
 
-- 🖥️  Systems, infrastructure and day-to-day administration
-- ⚙️  Automation, scripting and practical tooling
-- 🎧  Music producer and sound designer
+- 🖥️  Systems and infrastructure
+- ⚙️  Automation, scripting, and building custom tools
+- 🎧  Music producer
 
 ## `> focus areas`
 
