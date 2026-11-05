@@ -17,7 +17,7 @@
 └─────────────────────────────────────────────────┘
 ```
 
-## `> whoami`
+## `> who am i`
 
 I'm a system administrator and music producer interested in the space between technology and creativity.
 
@@ -25,7 +25,7 @@ I'm a system administrator and music producer interested in the space between te
 - ⚙️  Automation, scripting and practical tooling
 - 🎧  Music production and sound design
 
-## `> focus_areas`
+## `> focus areas`
 
 <p>
   <img src="https://img.shields.io/badge/SYSTEMS-0b1522?style=for-the-badge&logo=linux&logoColor=white" alt="Systems">
