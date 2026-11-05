@@ -44,6 +44,6 @@ I'm a system administrator and music producer interested in the space between te
 
 <div align="center">
 
-`END` &nbsp; **|** &nbsp; `ven7ra`
+`ven7ra` &nbsp; **|** &nbsp; `forever`
 
 </div>
