@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="assets/ven7ra-banner.svg" alt="ven7ra — Systems // Sound" width="100%">
-
+  
 ### `Music Producer` &nbsp;·&nbsp; `Tech Enthusiast`
 
 [Website](https://muz.lc/ven7ra) · [GitHub](https://github.com/ven7ra)
