@@ -2,24 +2,17 @@
 
 <img src="assets/ven7ra-banner.svg" alt="ven7ra — Systems // Sound" width="100%">
 
-### `SYSTEM ADMINISTRATOR` &nbsp;·&nbsp; `MUSIC PRODUCER`
+### `Music Producer` &nbsp;·&nbsp; `Tech Enthusiast`
 
 [Website](https://muz.lc/ven7ra) · [GitHub](https://github.com/ven7ra)
 
 </div>
 
----
 
-```text
-┌─ ven7ra ────────────────────────────────────────┐
-│  System administration, technology and sound.   │
-│  Exploring reliable systems and creative tools. │
-└─────────────────────────────────────────────────┘
-```
 
 ## `> who am i`
 
-I'm a system administrator and music producer interested in the space between technology and creativity.
+I enjoy creating music, exploring new technologies and experimenting with computers and software.
 
 - 🖥️  Systems, infrastructure and day-to-day administration
 - ⚙️  Automation, scripting and practical tooling
@@ -29,8 +22,7 @@ I'm a system administrator and music producer interested in the space between te
 
 <p>
   <img src="https://img.shields.io/badge/SYSTEMS-0b1522?style=for-the-badge&logo=linux&logoColor=white" alt="Systems">
-  <img src="https://img.shields.io/badge/LINUX-0b1522?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/MUSIC_PRODUCTION-0b1522?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Music production">
+  <img src="https://img.shields.io/badge/MUSIC_PRODUCTION-0b1522?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Music">
 </p>
 
 </div>
