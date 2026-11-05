@@ -33,8 +33,6 @@ I'm a system administrator and music producer interested in the space between te
 <p>
   <img src="https://img.shields.io/badge/SYSTEMS-0b1522?style=for-the-badge&logo=linux&logoColor=white" alt="Systems">
   <img src="https://img.shields.io/badge/LINUX-0b1522?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/AUTOMATION-0b1522?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Automation">
-  <img src="https://img.shields.io/badge/NETWORKING-0b1522?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
   <img src="https://img.shields.io/badge/MUSIC_PRODUCTION-0b1522?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Music production">
 </p>
 
