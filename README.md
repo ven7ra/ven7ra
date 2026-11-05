@@ -38,14 +38,6 @@ I'm a system administrator and music producer interested in the space between te
   <img src="https://img.shields.io/badge/MUSIC_PRODUCTION-0b1522?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Music production">
 </p>
 
-## `> currently_building`
-
-- Personal administration and automation utilities
-- Reusable scripts and configuration notes
-- A collection of experiments at the intersection of systems and sound
-
-> Replace these bullets with the projects you're actively working on. Keep this section honest and current.
-
 </div>
 
 ## `> connect`
