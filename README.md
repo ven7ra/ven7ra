@@ -46,13 +46,6 @@ I'm a system administrator and music producer interested in the space between te
 
 > Replace these bullets with the projects you're actively working on. Keep this section honest and current.
 
-## `> github_activity`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ven7ra&show_icons=true&hide_border=true&bg_color=090d14&title_color=38bdf8&text_color=cbd5e1&icon_color=168bff&rank_icon=github" alt="VEN7RA GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ven7ra&layout=compact&hide_border=true&bg_color=090d14&title_color=38bdf8&text_color=cbd5e1" alt="Most used languages">
-
 </div>
 
 ## `> connect`
