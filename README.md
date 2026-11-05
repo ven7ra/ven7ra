@@ -6,14 +6,14 @@
 
 **Build. Automate. Create.**
 
-[Website](https://mzu.lc/ven7ra) · [GitHub](https://github.com/ven7ra)
+[Website](https://muz.lc/ven7ra) · [GitHub](https://github.com/ven7ra)
 
 </div>
 
 ---
 
 ```text
-┌─ VEN7RA :: PROFILE ──────────────────────────────┐
+┌─ VEN7RA | PROFILE ──────────────────────────────┐
 │  System administration, technology and sound.   │
 │  Exploring reliable systems and creative tools. │
 └─────────────────────────────────────────────────┘
@@ -57,7 +57,7 @@ I'm a system administrator and music producer interested in the space between te
 
 ## `> connect`
 
-- 🌐 Website: [mzu.lc/ven7ra](https://mzu.lc/ven7ra)
+- 🌐 Website: [muz.lc/ven7ra](https://muz.lc/ven7ra)
 - 🐙 GitHub: [@ven7ra](https://github.com/ven7ra)
 
 ---
