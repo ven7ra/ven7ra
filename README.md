@@ -11,7 +11,7 @@
 ---
 
 ```text
-┌─ VEN7RA | PROFILE ──────────────────────────────┐
+┌─ ven7ra ────────────────────────────────────────┐
 │  System administration, technology and sound.   │
 │  Exploring reliable systems and creative tools. │
 └─────────────────────────────────────────────────┘
